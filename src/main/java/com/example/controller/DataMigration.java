@@ -26,6 +26,7 @@ import com.google.gson.Gson;
 @EnableAutoConfiguration
 public class DataMigration {
 
+	/* Hi this is for test*/
 	@RequestMapping("/")
 	String home() {
 		return "Hello World!";
