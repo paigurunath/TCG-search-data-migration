@@ -8,5 +8,6 @@ public class SearchDataMigrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SearchDataMigrationApplication.class, args);
+		
 	}
 }
